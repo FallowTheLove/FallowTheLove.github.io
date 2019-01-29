@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2bd2094-bcf4-4d04-ba4a-9f582ea3f68c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/images/footer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/image-wrapper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/images/navPanel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.dropotron.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/promo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left-sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no-sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/right-sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +46,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="23" column="68" lean-forward="true" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
@@ -36,16 +54,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="30" column="102" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="102" />
+            <state relative-caret-position="-80">
+              <caret line="32" column="102" selection-start-line="32" selection-start-column="102" selection-end-line="32" selection-end-column="102" />
               <folding>
                 <element signature="e#3236#3242#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -61,6 +93,7 @@
       <list>
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index3.html" />
       </list>
     </option>
   </component>
@@ -111,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548740796375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548741494837" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -189,18 +222,17 @@
       <workItem from="1548658792483" duration="717000" />
       <workItem from="1548659806965" duration="119000" />
       <workItem from="1548659953410" duration="1032000" />
-      <workItem from="1548736618297" duration="3051000" />
+      <workItem from="1548736618297" duration="3757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5749000" />
+    <option name="totallyTimeSpent" value="6455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2637584" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2637584" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,7 +247,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Statistic" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.34419262" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.34419262" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -246,20 +278,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="23" column="68" lean-forward="true" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="30" column="102" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="102" />
+        <state relative-caret-position="-80">
+          <caret line="32" column="102" selection-start-line="32" selection-start-column="102" selection-end-line="32" selection-end-column="102" />
           <folding>
             <element signature="e#3236#3242#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
     </entry>
